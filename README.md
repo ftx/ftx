@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/ftx)
 
 ### Hi there 👋
 
