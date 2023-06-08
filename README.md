@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Davidson Canada / BENEVA
+- 🔭 I’m currently working at Turbulent as a Manager
 - 🌱 I’m currently learning Erlang & Golang
 - 📫 How to reach me: f@lf.je
 
