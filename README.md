@@ -7,7 +7,6 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently leading DevOps & infrastructure initiatives at Ubisoft
 - 🏗️ Building and operating scalable systems (Kubernetes, CI/CD, Observability)
 - 🧪 Experimenting with self-hosted infrastructure & datacenter deployments
 - 🌍 Strong believer in decentralization / "own your piece of the internet"
