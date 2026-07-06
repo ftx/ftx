@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Florian
 
-🚀 Tech Lead DevOps @ Ubisoft  
 💡 Passionate about Infrastructure, Self-Hosting & Distributed Systems  
 
 ---
