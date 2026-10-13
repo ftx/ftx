@@ -39,7 +39,7 @@
 
 ## 🏠 Self-Hosting & Datacenter
 
-- 🖥️ Running my own server in a datacenter (1U)
+- 🖥️ Running FFxF Cloud / The Canadian Cloud
 - ⚡ GPU acceleration (Plex, compute workloads)
 - 🔐 Secure networking (IPv6, WireGuard, custom routing)
 - 📦 Fully containerized services with backup & fast redeploy
